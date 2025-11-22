@@ -98,8 +98,7 @@ class prog {
 ```
 
 ## Output:
-
-
+<img width="898" height="213" alt="image" src="https://github.com/user-attachments/assets/f39e86c6-bde2-492f-8d51-2a46055ced76" />
 
 ## Result:
 Thus, the C program to perfom right rotation on linked list is implemented successfully.
